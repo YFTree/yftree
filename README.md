@@ -1,4 +1,6 @@
-## Hi there 👋
+## 这是一个笨蛋的GitHub账号 ![Visitor Count](https://profile-counter.glitch.me/yftree/count.svg)
+[![Readme Card](https://githubstat.vercel.miniproj.stevezmt.top/api?username=yftree&show=discussions_started,prs_merged_percentage&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=false&theme=radical&locale=cn)](#)
+<!--
 
 <!--
 **YFTree/yftree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
